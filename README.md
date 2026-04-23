@@ -1,3 +1,11 @@
-# Debug Diaries
+Debug Diaries 🚀
+This repository contains my coding practice and experiments in Python.
 
-Python practice and code experiments.
+Topics Covered
+Basics
+Loops
+Conditions
+More coming...
+Tools Used
+Python
+Google Colab
